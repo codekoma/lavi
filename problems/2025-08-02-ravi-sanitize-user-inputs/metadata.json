@@ -1,0 +1,10 @@
+{
+  "id": "2025-08-02-komal-sanitize-user-inputs",
+  "title": "Sanitize User Inputs",
+  "difficulty": "BigCodeBench-Hard",
+  "tags": ["security", "input-sanitization", "string-processing"],
+  "libraries_used": ["re", "unicodedata", "collections"],
+  "prompt_type": ["instruct", "complete"],
+  "language": "python",
+  "author": "Ravi"
+}
